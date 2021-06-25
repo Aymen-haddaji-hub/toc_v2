@@ -1,4 +1,5 @@
-[
+{
+    "tokens": [
     {
       "id": 0,
       "description": "the open crate blockchain NFT",
@@ -24,4 +25,5 @@
       "Collection": "Michel Fedoroff, Monaco, 2006 Anon Sale, Lot 72, Artcurial Paris, 2016 Acquired directly from the above by the current owner, 2016",
       "Current location": "Tunis, Tunisia"
     }
-]
+    ]
+}
